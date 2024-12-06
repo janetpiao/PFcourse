@@ -1,0 +1,15 @@
+/Users/jnaetpiao/Downloads/PFcourse/Lesson-12/bin/Debug/net7.0/Lesson-12
+/Users/jnaetpiao/Downloads/PFcourse/Lesson-12/bin/Debug/net7.0/Lesson-12.deps.json
+/Users/jnaetpiao/Downloads/PFcourse/Lesson-12/bin/Debug/net7.0/Lesson-12.runtimeconfig.json
+/Users/jnaetpiao/Downloads/PFcourse/Lesson-12/bin/Debug/net7.0/Lesson-12.dll
+/Users/jnaetpiao/Downloads/PFcourse/Lesson-12/bin/Debug/net7.0/Lesson-12.pdb
+/Users/jnaetpiao/Downloads/PFcourse/Lesson-12/obj/Debug/net7.0/Lesson-12.csproj.AssemblyReference.cache
+/Users/jnaetpiao/Downloads/PFcourse/Lesson-12/obj/Debug/net7.0/Lesson-12.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jnaetpiao/Downloads/PFcourse/Lesson-12/obj/Debug/net7.0/Lesson-12.AssemblyInfoInputs.cache
+/Users/jnaetpiao/Downloads/PFcourse/Lesson-12/obj/Debug/net7.0/Lesson-12.AssemblyInfo.cs
+/Users/jnaetpiao/Downloads/PFcourse/Lesson-12/obj/Debug/net7.0/Lesson-12.csproj.CoreCompileInputs.cache
+/Users/jnaetpiao/Downloads/PFcourse/Lesson-12/obj/Debug/net7.0/Lesson-12.dll
+/Users/jnaetpiao/Downloads/PFcourse/Lesson-12/obj/Debug/net7.0/refint/Lesson-12.dll
+/Users/jnaetpiao/Downloads/PFcourse/Lesson-12/obj/Debug/net7.0/Lesson-12.pdb
+/Users/jnaetpiao/Downloads/PFcourse/Lesson-12/obj/Debug/net7.0/Lesson-12.genruntimeconfig.cache
+/Users/jnaetpiao/Downloads/PFcourse/Lesson-12/obj/Debug/net7.0/ref/Lesson-12.dll
