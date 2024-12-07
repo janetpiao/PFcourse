@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jnaetpiao/Downloads/PFcourse/Lesson-12/Lesson-12.csproj": {}
+    "/Users/jnaetpiao/Documents/GitHub/PFcourse/Lesson-12/Lesson-12.csproj": {}
   },
   "projects": {
-    "/Users/jnaetpiao/Downloads/PFcourse/Lesson-12/Lesson-12.csproj": {
+    "/Users/jnaetpiao/Documents/GitHub/PFcourse/Lesson-12/Lesson-12.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jnaetpiao/Downloads/PFcourse/Lesson-12/Lesson-12.csproj",
+        "projectUniqueName": "/Users/jnaetpiao/Documents/GitHub/PFcourse/Lesson-12/Lesson-12.csproj",
         "projectName": "Lesson-12",
-        "projectPath": "/Users/jnaetpiao/Downloads/PFcourse/Lesson-12/Lesson-12.csproj",
+        "projectPath": "/Users/jnaetpiao/Documents/GitHub/PFcourse/Lesson-12/Lesson-12.csproj",
         "packagesPath": "/Users/jnaetpiao/.nuget/packages/",
-        "outputPath": "/Users/jnaetpiao/Downloads/PFcourse/Lesson-12/obj/",
+        "outputPath": "/Users/jnaetpiao/Documents/GitHub/PFcourse/Lesson-12/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jnaetpiao/.nuget/NuGet/NuGet.Config"

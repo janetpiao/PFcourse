@@ -14,7 +14,7 @@ class ColorGuessingGame
 
         // Randomly select a random color
         Random random = new Random();
-        int colorChoice = random.Next(1, 4);
+        int colorChoice = random.Next(1, 5);
         string color;
 
         // STEP 4: Go to https://github.com/ to see your new repository.
@@ -32,11 +32,14 @@ class ColorGuessingGame
             case 3:
                 color = "yellow";
                 break;
+            case 4:
+                color = "green";
+                break;
             default:
                 color = "unknown";
                 break;
         }
-        Console.WriteLine("Guess the color: red, blue, or yellow");
+        Console.WriteLine("Guess the color: red, blue, yellow or green");
 
         // STEP 6: Push the changes to the remote repository, and then go back to https://github.com/ to see the updates.
 
