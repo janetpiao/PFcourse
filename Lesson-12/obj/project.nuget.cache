@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "7ayJ2ad42Drbdilcep9hzgIoJBLzjEEGX50a4F18c51DHqwokrBjUaYginx/v+W0m8+FTHwdGVa5OwewcFNWWA==",
+  "dgSpecHash": "CspzLPjA4D4=",
   "success": true,
   "projectFilePath": "/Users/jnaetpiao/Documents/GitHub/PFcourse/Lesson-12/Lesson-12.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/jnaetpiao/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/jnaetpiao/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/jnaetpiao/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.20/microsoft.netcore.app.host.osx-arm64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -14,7 +14,7 @@ class ColorGuessingGame
 
         // Randomly select a random color
         Random random = new Random();
-        int colorChoice = random.Next(1, 5);
+        int colorChoice = random.Next(1, 6);
         string color;
 
         // STEP 4: Go to https://github.com/ to see your new repository.
@@ -34,6 +34,9 @@ class ColorGuessingGame
                 break;
             case 4:
                 color = "green";
+                break;
+            case 5:
+                color = "purple";
                 break;
             default:
                 color = "unknown";
