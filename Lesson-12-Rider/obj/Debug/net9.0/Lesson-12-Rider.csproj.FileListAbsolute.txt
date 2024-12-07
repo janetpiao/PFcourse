@@ -1,0 +1,15 @@
+/Users/jnaetpiao/Documents/GitHub/PFcourse/Lesson-12-Rider/bin/Debug/net9.0/Lesson-12-Rider
+/Users/jnaetpiao/Documents/GitHub/PFcourse/Lesson-12-Rider/bin/Debug/net9.0/Lesson-12-Rider.deps.json
+/Users/jnaetpiao/Documents/GitHub/PFcourse/Lesson-12-Rider/bin/Debug/net9.0/Lesson-12-Rider.runtimeconfig.json
+/Users/jnaetpiao/Documents/GitHub/PFcourse/Lesson-12-Rider/bin/Debug/net9.0/Lesson-12-Rider.dll
+/Users/jnaetpiao/Documents/GitHub/PFcourse/Lesson-12-Rider/bin/Debug/net9.0/Lesson-12-Rider.pdb
+/Users/jnaetpiao/Documents/GitHub/PFcourse/Lesson-12-Rider/obj/Debug/net9.0/Lesson-12-Rider.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jnaetpiao/Documents/GitHub/PFcourse/Lesson-12-Rider/obj/Debug/net9.0/Lesson-12-Rider.AssemblyInfoInputs.cache
+/Users/jnaetpiao/Documents/GitHub/PFcourse/Lesson-12-Rider/obj/Debug/net9.0/Lesson-12-Rider.AssemblyInfo.cs
+/Users/jnaetpiao/Documents/GitHub/PFcourse/Lesson-12-Rider/obj/Debug/net9.0/Lesson-12-Rider.csproj.CoreCompileInputs.cache
+/Users/jnaetpiao/Documents/GitHub/PFcourse/Lesson-12-Rider/obj/Debug/net9.0/Lesson-12-Rider.sourcelink.json
+/Users/jnaetpiao/Documents/GitHub/PFcourse/Lesson-12-Rider/obj/Debug/net9.0/Lesson-12-Rider.dll
+/Users/jnaetpiao/Documents/GitHub/PFcourse/Lesson-12-Rider/obj/Debug/net9.0/refint/Lesson-12-Rider.dll
+/Users/jnaetpiao/Documents/GitHub/PFcourse/Lesson-12-Rider/obj/Debug/net9.0/Lesson-12-Rider.pdb
+/Users/jnaetpiao/Documents/GitHub/PFcourse/Lesson-12-Rider/obj/Debug/net9.0/Lesson-12-Rider.genruntimeconfig.cache
+/Users/jnaetpiao/Documents/GitHub/PFcourse/Lesson-12-Rider/obj/Debug/net9.0/ref/Lesson-12-Rider.dll
